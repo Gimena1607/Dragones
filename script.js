@@ -1,6 +1,6 @@
 // Lista de estudiantes y su experiencia actual
 const alumnos = [
-  { nombre: "Josefina Alves", xp: 3 },
+  { nombre: "Abril Aceredo", xp: 0 },
   { nombre: "Yasmin Benítez", xp: 2 },
   { nombre: "Julieta Cuadrado", xp: 2 },
   { nombre: "Lucas Duarte", xp: 0 },
